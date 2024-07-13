@@ -1,0 +1,10 @@
+#include <stdout>
+
+int main(){
+    char c;
+    char prev, curr, next;
+    
+    while((c = getchar()) != EOF){
+	
+    }
+}
