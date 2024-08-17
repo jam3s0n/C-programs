@@ -1,8 +1,0 @@
-//Write a program that prints one word per line
-#include <stdio.h>
-
-int main(){
-
-    
-
-}
